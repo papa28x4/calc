@@ -5,7 +5,7 @@ Inspired by Coding A Calculator In Pure HTML CSS and JavaScript by PortEXE on Yo
 
 HTML and CSS by PortEXE
 
-JavaScript by ME
+JavaScript by me
 
 Added
 1) Inserted commas to make the display more readable
