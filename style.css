@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 body{
-    font-family: 'Lato', sans-serif;
+    font-family: 'Inconsolata', monospace;
     font-size: 24px;
-    font-weight: 100;
+    font-weight: 400;
     margin: 0;
     
 }
@@ -43,14 +43,13 @@ h1{
 #calc-display{
     box-sizing: content-box;
     height: 40px;
-    background: rgb(83, 103, 122);
+    background: #2B343A;
+    font-family: 'Inconsolata', monospace;
+    color: #fff;
     padding: 20px 10px 20px 20px;
     font-size: 32px;
     text-align: right;
     border-radius: 5px 5px 0 0;
-    border-left: 1px solid grey;
-    border-top: 1px solid grey;
-    border-right: 1px solid grey;
     overflow: hidden;
     white-space: nowrap; 
 }
