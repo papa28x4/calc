@@ -61,6 +61,11 @@ h1{
 
 #calc-equals{
     border-radius: 0 0 5px 0;
+    background-color: orange;
+    transition: all cubic-bezier(0.645, 0.045, 0.355, 1) .2s;
+}
+#calc-equals:hover {
+    background-color: rgb(50, 59, 65);
 }
 
 #calc-clear{
