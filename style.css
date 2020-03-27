@@ -17,10 +17,10 @@ h1{
 }
 
 .calc-btn{
-    background-color: silver;
+    background-color: #2B343A;
+    color: #f7f7f7;
     width: 48px;
     height: 45px;
-    border: 1px solid gray;
     text-align: center;
     vertical-align: middle;
     cursor: pointer;
@@ -45,17 +45,13 @@ h1{
     height: 40px;
     background: #2B343A;
     font-family: 'Inconsolata', monospace;
-    color: #fff;
+    color: #f7f7f7;
     padding: 20px 10px 20px 20px;
     font-size: 32px;
     text-align: right;
     border-radius: 5px 5px 0 0;
     overflow: hidden;
     white-space: nowrap; 
-}
-
-.calc-btn-operator{
-    background: orange;
 }
 
 #calc-zero{
