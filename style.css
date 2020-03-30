@@ -25,6 +25,10 @@ h1{
     vertical-align: middle;
     cursor: pointer;
     padding-top: 3px;
+    user-select: none;
+    -moz-user-select: -moz-none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
 }
 
 .calc-btn:hover{
